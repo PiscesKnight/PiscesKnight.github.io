@@ -177,97 +177,10 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <p>&lt;!– more ——&gt;</p>
-<hr>
-<h3 id="Git自带的本地文档"><a href="#Git自带的本地文档" class="headerlink" title="Git自带的本地文档"></a><a href="C:/Program&amp;nbspFiles/Git/mingw64/share/doc/git-doc/git-config.html" target="_blank" rel="external">Git自带的本地文档</a></h3><blockquote>
-<p><strong>安装完git找到安装目录下Git/mingw64/share/doc/git-doc/git-config.html</strong></p>
-</blockquote>
-<h3 id="命令行文档说明（英文）"><a href="#命令行文档说明（英文）" class="headerlink" title="命令行文档说明（英文）"></a><a href="http://jlord.us/git-it/challenges/commit_to_it.html" target="_blank" rel="external">命令行文档说明（英文）</a></h3><blockquote>
-<p><strong>上面是英文文档的git的各种命令行说明~很不错~~看命令行试试就行~</strong></p>
-</blockquote>
-<h3 id="Git中文文档"><a href="#Git中文文档" class="headerlink" title="Git中文文档"></a><a href="http://git.oschina.net/progit/3-Git-%E5%88%86%E6%94%AF.html#3.5-%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF" target="_blank" rel="external">Git中文文档</a></h3><blockquote>
-<p><strong>排版不错的中文版Pro Git</strong></p>
-<h3 id="廖雪峰git教程"><a href="#廖雪峰git教程" class="headerlink" title="廖雪峰git教程"></a><a href="http://git.oschina.net/progit/index.html" target="_blank" rel="external">廖雪峰git教程</a></h3><p><strong>廖雪峰老师的git教程特别详细，一步一步下来很快就可以学会了~</strong></p>
-</blockquote>
-<hr>
-<h3 id="以下是常用git命令："><a href="#以下是常用git命令：" class="headerlink" title="以下是常用git命令："></a>以下是常用git命令：</h3><pre><code>1.git config --global user.name &quot;Your Name&quot; (安装Git后，设置用户名)
-
-2.git config --global user.email &quot;Your email&quot; (设置邮箱)
-
-3.ssh-keygen -t rsa -C &quot;youremail@example.com&quot; (创建 SSH key)
-
-4.ssh-agent -s (查看 ssh 是否启用)
-
-5.ssh -T git@github.com (验证)
-
-6.git init (初始化一个本地仓库)
-
-7.git add . (将所有文件加入到跟踪列表)
-
-8.git commit -m &quot;write something title&quot; (提交到本地仓库)
-
-9.git status (查看git文件是否改动，是否为提交状态)
-
-10.git diff &lt;file&gt; 查看具体哪里改动
-
-11.git remote add origin git@github.com:github账户名/github创建的库.git(将本地仓库关联到github上远程仓库)
-
-12.git push -u origin master (将本地仓库的所有内容推送到远程库上，下一次推送时直接 git push)
-
-13.git clone URL (克隆远程仓库)
-
-14.git branch (查看当前分支)
-
-15.git checkout -- filename (文件恢复到最新版本，但丢失最近一次提交后你修改的内容)
-
-16.git checkout name (切换分支，name 为分支名称)
-
-17.git log 调出日志查看历史修改
-
-18.git log --pretty=oneline 简化日志历史纪录
-
-19.git reset --hard HEAD^（回滚上一个版本，回滚多个版本HEAD~100）
-
-20.git reset --hard &lt;id(9a218dads....)&gt;  回滚指定版本
-
-21.git reflog 查看历史提交和回滚命令，查看提交版本的id，想突然回滚之前变动的版本id可用
-
-22.git checkout -- file 撤销提交前（没有add到缓存区）的操作
-
-22.git reset HEAD file 撤销缓存区的操作，重新放回工作区
-
-23.git branch 查看分支
-
-24.git branch &lt;name&gt; 创建分支
-
-25.git checkout &lt;name&gt; 切换分支
-
-26.git checkout -b &lt;name&gt; 创建+切换分支
-
-27.git merge &lt;name&gt; 合并指定分支到当前分支
-
-28.git branch -d &lt;name&gt; 删除分支
-
-29.git stash “存储”工作现场
-
-30.git stash apply 恢复工作现场
-
-31.git stash drop 删除存储的工作现场
-</code></pre><p></p>
-<hr>
-<h3 id="附带Vim相关命令："><a href="#附带Vim相关命令：" class="headerlink" title="附带Vim相关命令："></a>附带Vim相关命令：</h3><pre><code>1.vim filename (打开编辑文件)
-
-2.按一下i键 (进行编辑文件)
-
-3.按一下Esc键 (退出i(插入)命令进行其它命令使用)
-
-4.:wq (保存文件并退出)
-
-5.:q! (强制退出,不保存)
-
-6.: w filename (将文章以指定的文件名filename保存)
-</code></pre><hr>
-<h2 id="鉴于总是忘记怎么提交远程仓库。。。来来来"><a href="#鉴于总是忘记怎么提交远程仓库。。。来来来" class="headerlink" title="鉴于总是忘记怎么提交远程仓库。。。来来来"></a>鉴于总是忘记怎么提交远程仓库。。。来来来</h2><h3 id="1-在本地git-init创建仓库"><a href="#1-在本地git-init创建仓库" class="headerlink" title="1.在本地git init创建仓库"></a>1.在本地git init创建仓库</h3><h3 id="2-添加文件到缓存库git-add"><a href="#2-添加文件到缓存库git-add" class="headerlink" title="2.添加文件到缓存库git add ."></a>2.添加文件到缓存库git add .</h3><h3 id="3-提交到本地仓库git-commit-m-“”"><a href="#3-提交到本地仓库git-commit-m-“”" class="headerlink" title="3.提交到本地仓库git commit -m “”"></a>3.提交到本地仓库git commit -m “”</h3><h3 id="4-登录github网站添加仓库，Create-a-new-repository"><a href="#4-登录github网站添加仓库，Create-a-new-repository" class="headerlink" title="4.登录github网站添加仓库，Create a new repository"></a>4.登录github网站添加仓库，Create a new repository</h3><h3 id="5-填写远程仓库名，然后点击Create-repository"><a href="#5-填写远程仓库名，然后点击Create-repository" class="headerlink" title="5.填写远程仓库名，然后点击Create repository"></a>5.填写远程仓库名，然后点击Create repository</h3><h3 id="6-git-remote-add-origin-git-git-github-com-UserName-项目名-git使用这条命令同步远程仓库"><a href="#6-git-remote-add-origin-git-git-github-com-UserName-项目名-git使用这条命令同步远程仓库" class="headerlink" title="6.git remote add origin git@git@github.com:UserName/项目名.git使用这条命令同步远程仓库"></a>6.git remote add origin git@git@github.com:UserName/项目名.git使用这条命令同步远程仓库</h3><h3 id="7-最后提交到远程仓库：git-push-origin-分支名"><a href="#7-最后提交到远程仓库：git-push-origin-分支名" class="headerlink" title="7.最后提交到远程仓库：git push origin 分支名"></a>7.最后提交到远程仓库：git push origin 分支名</h3>
+        <p>dasdahsdjk<br>
+        
+          <a class="article-more-a" href="/2017/03/02/Git常用命令/#more">more >></a>
+        
       
 
       
