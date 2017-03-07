@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-05T14:31:18.786Z</updated>
+  <updated>2017-03-07T06:12:30.200Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -14,37 +14,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>简历</title>
-    <link href="http://yoursite.com/2017/03/03/%E7%AE%80%E5%8E%86/"/>
-    <id>http://yoursite.com/2017/03/03/简历/</id>
-    <published>2017-03-03T15:07:34.000Z</published>
-    <updated>2017-03-05T14:31:18.786Z</updated>
-    
-    <content type="html"><![CDATA[<p>个人简历<br><a id="more"></a></p>
-<p>本人最近正在找工作，求一份靠谱Android或前端开发的工资，工资地点目前考虑广州，希望有大牛推荐，能与之一起学习进步！如果您觉得我符合贵公司要求或有公司推荐，请通过有效联系我，非常感谢！一下是我的邮箱：<br></p>
-<blockquote>
-<p>linjtwork@163.com</p>
-</blockquote>
-<h1 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h1><h3 id="广州市宏视电子技术有限公司（2015年12月-2016年3月）"><a href="#广州市宏视电子技术有限公司（2015年12月-2016年3月）" class="headerlink" title="广州市宏视电子技术有限公司（2015年12月~2016年3月）"></a>广州市宏视电子技术有限公司（2015年12月~2016年3月）</h3><h3 id="V380"><a href="#V380" class="headerlink" title="V380"></a>V380</h3><h4 id="项目简介："><a href="#项目简介：" class="headerlink" title="项目简介："></a>项目简介：</h4><p>配合我司wifi摄像头产品使用,可以实现远程配置摄像头,可以远程观看,远程回放;</p>
-<h4 id="职责："><a href="#职责：" class="headerlink" title="职责："></a>职责：</h4><p>新界面搭建与测试，将公司SDK代码与现有项目进行整合更新，修复Bug</p>
-<h2 id="广州黑码软件技术有限公司（2016年4月-至今）"><a href="#广州黑码软件技术有限公司（2016年4月-至今）" class="headerlink" title="广州黑码软件技术有限公司（2016年4月-至今）"></a>广州黑码软件技术有限公司（2016年4月-至今）</h2><p>###appcan插件开发</p>
-<p>####插件：</p>
-<p>#####自定义相机，自定义水印相机，汽车车牌识别插件</p>
-<p>####简介：<br>通过appcan平台开发Hybrid App 原生插件，app内容为纯html，使用平台调用原生插件以达到使用原生基础功能的目的，使Hybrid App体验更趋近与原生App</p>
-]]></content>
-    
-    <summary type="html">
-    
-      &lt;p&gt;个人简历&lt;br&gt;
-    
-    </summary>
-    
-    
-      <category term="简历" scheme="http://yoursite.com/tags/%E7%AE%80%E5%8E%86/"/>
-    
-  </entry>
   
   <entry>
     <title>Git常用命令</title>
