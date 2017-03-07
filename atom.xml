@@ -5,7 +5,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-03-03T09:52:06.288Z</updated>
+  <updated>2017-03-05T14:31:18.786Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -16,27 +16,61 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>简历</title>
+    <link href="http://yoursite.com/2017/03/03/%E7%AE%80%E5%8E%86/"/>
+    <id>http://yoursite.com/2017/03/03/简历/</id>
+    <published>2017-03-03T15:07:34.000Z</published>
+    <updated>2017-03-05T14:31:18.786Z</updated>
+    
+    <content type="html"><![CDATA[<p>个人简历<br><a id="more"></a></p>
+<p>本人最近正在找工作，求一份靠谱Android或前端开发的工资，工资地点目前考虑广州，希望有大牛推荐，能与之一起学习进步！如果您觉得我符合贵公司要求或有公司推荐，请通过有效联系我，非常感谢！一下是我的邮箱：<br></p>
+<blockquote>
+<p>linjtwork@163.com</p>
+</blockquote>
+<h1 id="工作经历"><a href="#工作经历" class="headerlink" title="工作经历"></a>工作经历</h1><h3 id="广州市宏视电子技术有限公司（2015年12月-2016年3月）"><a href="#广州市宏视电子技术有限公司（2015年12月-2016年3月）" class="headerlink" title="广州市宏视电子技术有限公司（2015年12月~2016年3月）"></a>广州市宏视电子技术有限公司（2015年12月~2016年3月）</h3><h3 id="V380"><a href="#V380" class="headerlink" title="V380"></a>V380</h3><h4 id="项目简介："><a href="#项目简介：" class="headerlink" title="项目简介："></a>项目简介：</h4><p>配合我司wifi摄像头产品使用,可以实现远程配置摄像头,可以远程观看,远程回放;</p>
+<h4 id="职责："><a href="#职责：" class="headerlink" title="职责："></a>职责：</h4><p>新界面搭建与测试，将公司SDK代码与现有项目进行整合更新，修复Bug</p>
+<h2 id="广州黑码软件技术有限公司（2016年4月-至今）"><a href="#广州黑码软件技术有限公司（2016年4月-至今）" class="headerlink" title="广州黑码软件技术有限公司（2016年4月-至今）"></a>广州黑码软件技术有限公司（2016年4月-至今）</h2><p>###appcan插件开发</p>
+<p>####插件：</p>
+<p>#####自定义相机，自定义水印相机，汽车车牌识别插件</p>
+<p>####简介：<br>通过appcan平台开发Hybrid App 原生插件，app内容为纯html，使用平台调用原生插件以达到使用原生基础功能的目的，使Hybrid App体验更趋近与原生App</p>
+]]></content>
+    
+    <summary type="html">
+    
+      &lt;p&gt;个人简历&lt;br&gt;
+    
+    </summary>
+    
+    
+      <category term="简历" scheme="http://yoursite.com/tags/%E7%AE%80%E5%8E%86/"/>
+    
+  </entry>
+  
+  <entry>
     <title>Git常用命令</title>
     <link href="http://yoursite.com/2017/03/02/Git%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/"/>
     <id>http://yoursite.com/2017/03/02/Git常用命令/</id>
     <published>2017-03-02T15:18:35.000Z</published>
-    <updated>2017-03-03T09:52:06.288Z</updated>
+    <updated>2017-03-07T06:12:30.200Z</updated>
     
     <content type="html"><![CDATA[<p>记录Git常用命令，新手福利~</p>
 <a id="more"></a>
-<hr>
-<h3 id="Git自带的本地文档"><a href="#Git自带的本地文档" class="headerlink" title="Git自带的本地文档"></a><a href="C:/Program&amp;nbspFiles/Git/mingw64/share/doc/git-doc/git-config.html" target="_blank" rel="external">Git自带的本地文档</a></h3><blockquote>
+<h1 id="Git命令说明"><a href="#Git命令说明" class="headerlink" title="Git命令说明"></a>Git命令说明</h1><hr>
+<p>###<a href="C:/Program&amp;nbspFiles/Git/mingw64/share/doc/git-doc/git-config.html" target="_blank" rel="external">Git自带的本地文档</a></p>
+<blockquote>
 <p><strong>安装完git找到安装目录下Git/mingw64/share/doc/git-doc/git-config.html</strong></p>
 </blockquote>
 <h3 id="命令行文档说明（英文）"><a href="#命令行文档说明（英文）" class="headerlink" title="命令行文档说明（英文）"></a><a href="http://jlord.us/git-it/challenges/commit_to_it.html" target="_blank" rel="external">命令行文档说明（英文）</a></h3><blockquote>
 <p><strong>上面是英文文档的git的各种命令行说明~很不错~~看命令行试试就行~</strong></p>
 </blockquote>
-<h3 id="Git中文文档"><a href="#Git中文文档" class="headerlink" title="Git中文文档"></a><a href="http://git.oschina.net/progit/3-Git-%E5%88%86%E6%94%AF.html#3.5-%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF" target="_blank" rel="external">Git中文文档</a></h3><blockquote>
+<p>###<a href="http://git.oschina.net/progit/3-Git-%E5%88%86%E6%94%AF.html#3.5-%E8%BF%9C%E7%A8%8B%E5%88%86%E6%94%AF" target="_blank" rel="external">Git中文文档</a></p>
+<blockquote>
 <p><strong>排版不错的中文版Pro Git</strong></p>
 <h3 id="廖雪峰git教程"><a href="#廖雪峰git教程" class="headerlink" title="廖雪峰git教程"></a><a href="http://git.oschina.net/progit/index.html" target="_blank" rel="external">廖雪峰git教程</a></h3><p><strong>廖雪峰老师的git教程特别详细，一步一步下来很快就可以学会了~</strong></p>
 </blockquote>
 <hr>
-<h3 id="以下是常用git命令："><a href="#以下是常用git命令：" class="headerlink" title="以下是常用git命令："></a>以下是常用git命令：</h3><pre><code>1.git config --global user.name &quot;Your Name&quot; (安装Git后，设置用户名)
+<p>###以下是常用git命令：</p>
+<pre><code>1.git config --global user.name &quot;Your Name&quot; (安装Git后，设置用户名)
 
 2.git config --global user.email &quot;Your email&quot; (设置邮箱)
 
@@ -60,48 +94,50 @@
 
 12.git push -u origin master (将本地仓库的所有内容推送到远程库上，下一次推送时直接 git push)
 
-13.git clone URL (克隆远程仓库)
+13.git push --set-upstream origin name (与远程分支建立联系，提交分支，name为分支名称)
 
-14.git branch (查看当前分支)
+14.git clone URL (克隆远程仓库)
 
-15.git checkout -- filename (文件恢复到最新版本，但丢失最近一次提交后你修改的内容)
+15.git branch (查看当前分支)
 
-16.git checkout name (切换分支，name 为分支名称)
+16.git checkout -- filename (文件恢复到最新版本，但丢失最近一次提交后你修改的内容)
 
-17.git log 调出日志查看历史修改
+17.git checkout name (切换分支，name 为分支名称)
 
-18.git log --pretty=oneline 简化日志历史纪录
+18.git log 调出日志查看历史修改
 
-19.git reset --hard HEAD^（回滚上一个版本，回滚多个版本HEAD~100）
+19.git log --pretty=oneline 简化日志历史纪录
 
-20.git reset --hard &lt;id(9a218dads....)&gt;  回滚指定版本
+20.git reset --hard HEAD^（回滚上一个版本，回滚多个版本HEAD~100）
 
-21.git reflog 查看历史提交和回滚命令，查看提交版本的id，想突然回滚之前变动的版本id可用
+21.git reset --hard &lt;id(9a218dads....)&gt;  回滚指定版本
 
-22.git checkout -- file 撤销提交前（没有add到缓存区）的操作
+22.git reflog 查看历史提交和回滚命令，查看提交版本的id，想突然回滚之前变动的版本id可用
 
-22.git reset HEAD file 撤销缓存区的操作，重新放回工作区
+23.git checkout -- file 撤销提交前（没有add到缓存区）的操作
 
-23.git branch 查看分支
+24.git reset HEAD file 撤销缓存区的操作，重新放回工作区
 
-24.git branch &lt;name&gt; 创建分支
+25.git branch 查看分支
 
-25.git checkout &lt;name&gt; 切换分支
+26.git branch &lt;name&gt; 创建分支
 
-26.git checkout -b &lt;name&gt; 创建+切换分支
+27.git checkout &lt;name&gt; 切换分支
 
-27.git merge &lt;name&gt; 合并指定分支到当前分支
+28.git checkout -b &lt;name&gt; 创建+切换分支
 
-28.git branch -d &lt;name&gt; 删除分支
+29.git merge &lt;name&gt; 合并指定分支到当前分支
 
-29.git stash “存储”工作现场
+30.git branch -d &lt;name&gt; 删除分支
 
-30.git stash apply 恢复工作现场
+31.git stash “存储”工作现场
 
-31.git stash drop 删除存储的工作现场
-</code></pre><p></p>
-<hr>
-<h3 id="附带Vim相关命令："><a href="#附带Vim相关命令：" class="headerlink" title="附带Vim相关命令："></a>附带Vim相关命令：</h3><pre><code>1.vim filename (打开编辑文件)
+32.git stash apply 恢复工作现场
+
+33.git stash drop 删除存储的工作现场
+</code></pre><hr>
+<p>###附带Vim相关命令：</p>
+<pre><code>1.vim filename (打开编辑文件)
 
 2.按一下i键 (进行编辑文件)
 
@@ -113,7 +149,15 @@
 
 6.: w filename (将文章以指定的文件名filename保存)
 </code></pre><hr>
-<h2 id="鉴于总是忘记怎么提交远程仓库。。。来来来"><a href="#鉴于总是忘记怎么提交远程仓库。。。来来来" class="headerlink" title="鉴于总是忘记怎么提交远程仓库。。。来来来"></a>鉴于总是忘记怎么提交远程仓库。。。来来来</h2><h3 id="1-在本地git-init创建仓库"><a href="#1-在本地git-init创建仓库" class="headerlink" title="1.在本地git init创建仓库"></a>1.在本地git init创建仓库</h3><h3 id="2-添加文件到缓存库git-add"><a href="#2-添加文件到缓存库git-add" class="headerlink" title="2.添加文件到缓存库git add ."></a>2.添加文件到缓存库git add .</h3><h3 id="3-提交到本地仓库git-commit-m-“”"><a href="#3-提交到本地仓库git-commit-m-“”" class="headerlink" title="3.提交到本地仓库git commit -m “”"></a>3.提交到本地仓库git commit -m “”</h3><h3 id="4-登录github网站添加仓库，Create-a-new-repository"><a href="#4-登录github网站添加仓库，Create-a-new-repository" class="headerlink" title="4.登录github网站添加仓库，Create a new repository"></a>4.登录github网站添加仓库，Create a new repository</h3><h3 id="5-填写远程仓库名，然后点击Create-repository"><a href="#5-填写远程仓库名，然后点击Create-repository" class="headerlink" title="5.填写远程仓库名，然后点击Create repository"></a>5.填写远程仓库名，然后点击Create repository</h3><h3 id="6-git-remote-add-origin-git-git-github-com-UserName-项目名-git使用这条命令同步远程仓库"><a href="#6-git-remote-add-origin-git-git-github-com-UserName-项目名-git使用这条命令同步远程仓库" class="headerlink" title="6.git remote add origin git@git@github.com:UserName/项目名.git使用这条命令同步远程仓库"></a>6.git remote add origin git@git@github.com:UserName/项目名.git使用这条命令同步远程仓库</h3><h3 id="7-最后提交到远程仓库：git-push-origin-分支名"><a href="#7-最后提交到远程仓库：git-push-origin-分支名" class="headerlink" title="7.最后提交到远程仓库：git push origin 分支名"></a>7.最后提交到远程仓库：git push origin 分支名</h3>]]></content>
+<p>##鉴于总是忘记怎么提交远程仓库。。。来来来</p>
+<p>###1.在本地git init创建仓库</p>
+<p>###2.添加文件到缓存库git add .</p>
+<p>###3.提交到本地仓库git commit -m “”</p>
+<p>###4.登录github网站添加仓库，Create a new repository</p>
+<p>###5.填写远程仓库名，然后点击Create repository</p>
+<p>###6.git remote add origin git@xx.xx.xx.xx:repos/xxx/xxx/        xxx.git使用这条命令同步远程仓库</p>
+<p>###7.最后提交到远程仓库：git push origin 分支名</p>
+]]></content>
     
     <summary type="html">
     
@@ -133,7 +177,7 @@
     <link href="http://yoursite.com/2017/03/01/hello-world/"/>
     <id>http://yoursite.com/2017/03/01/hello-world/</id>
     <published>2017-02-28T16:06:24.756Z</published>
-    <updated>2017-03-03T09:41:14.670Z</updated>
+    <updated>2017-03-03T09:48:19.100Z</updated>
     
     <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/" target="_blank" rel="external">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/" target="_blank" rel="external">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html" target="_blank" rel="external">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues" target="_blank" rel="external">GitHub</a>.</p>
 <a id="more"></a>
